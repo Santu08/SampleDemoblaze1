@@ -10,7 +10,7 @@ public class DemoClass {
 		System.out.println("TestBase");
 		System.out.println("Pom.xml");
 		System.out.println("Utilities");
-		System.out.println("Resource");
+		System.out.println("Reso----");
 		System.out.println("Suite");
 	
 	}
